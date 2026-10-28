@@ -1,0 +1,13 @@
+.left{
+  
+    height: 100vh;
+    width: 30%;
+    border-right: 2px solid black;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.hi{
+    margin-right: 8%;
+}
